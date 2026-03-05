@@ -1,3 +1,5 @@
 Ten: Trinh Tung Duong
 Chuc nang: Login
 Mo ta: Xu ly dang nhap nguoi dung
+Cap nhat: them xu ly loi dang nhap sai mat khau
+Ngay: 05/03/2026
