@@ -1,0 +1,9 @@
+| STT | Họ tên | MSSV | Vai trò | Feature Branch | Nhiệm vụ chính |
+|-----|-------|------|--------|---------------|----------------|
+| 1 | Bùi Thành Thiên | 2280603028 | Trưởng nhóm | feature/project-setup | Tạo repository, tạo nhánh main & develop, thêm thành viên, review Pull Request, merge vào develop, chụp ảnh cấu trúc repo |
+| 2 | Nguyễn Văn Trường | 2280603498 | Thành viên | feature/login-ui | Cài GitHub Desktop, clone repo, tạo branch, 2 commit + push, tạo Pull Request |
+| 3 | Nguyễn Võ Nhật Anh | 2280618830 | Thành viên | feature/register-ui | Tạo branch, commit, push, tạo Pull Request |
+| 4 | Phan Bá Thành | 2280602959 | Thành viên | feature/profile-page | Tạo branch, commit, push, Pull Request |
+| 5 | Nguyễn Trường Giang | 2280600764 | Thành viên | feature/dashboard | Tạo branch, commit, push, Pull Request |
+| 6 | Trình Tùng Dương | 2280600536 | Thành viên | feature/settings | Tạo branch, commit, push, Pull Request |
+| 7 | Nguyễn Trần An Khang | 2280601419 | Thành viên | feature/help-page | Tạo branch, commit, push, Pull Request |
