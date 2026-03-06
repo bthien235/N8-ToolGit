@@ -1,0 +1,9 @@
+THÔNG TIN HỒ SƠ CÁ NHÂN (PROFILE PAGE)
+--------------------------------------
+[Thông tin]: Họ và tên: Phan Bá Thành - MSSV: [Nhập MSSV của bạn]
+[Mô tả]: Trang hồ sơ cá nhân dùng để quản lý thông tin thành viên trong dự án.
+[Chức năng 1]: Hiển thị thông tin định danh người dùng (Họ tên, MSSV, vai trò).
+[Chức năng 2]: Khởi tạo và lưu trữ dữ liệu cá nhân thông qua tệp tin hệ thống .txt.
+[Chức năng 3]: Cập nhật trạng thái tiến độ công việc và báo cáo thực hành Git.
+[Kỹ thuật]: Quản lý phiên bản trên nhánh độc lập feature/phanbathanh.
+[Trạng thái]: Đã hoàn thiện và sẵn sàng tích hợp vào nhánh chính.
