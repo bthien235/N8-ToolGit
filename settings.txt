@@ -4,3 +4,6 @@ Mo ta: Trang cai dat nguoi dung
 - Doi mat khau
 - Doi ngon ngu
 - Che do toi/sang
+Cap nhat: them cai dat thong bao
+- Bat/tat thong bao email
+- Bat/tat thong bao SMS
