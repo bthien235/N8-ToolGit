@@ -1,1 +1,2 @@
 Bai Tap Thuc Hanh Git Cua Thanh
+Cap nhat lan 2 cho bai tap Git
