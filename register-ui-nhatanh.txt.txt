@@ -5,5 +5,7 @@ Chức năng đăng ký tài khoản cho người dùng.
 - Người dùng nhập Username
 - Người dùng nhập Email
 - Người dùng nhập Password
+- Người dùng xác nhận Password
 - Nhấn nút Register để tạo tài khoản
+- Kiểm tra email đã tồn tại chưa
 - Sau khi đăng ký thành công chuyển về trang Login
